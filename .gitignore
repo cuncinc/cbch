@@ -1,0 +1,5 @@
+cbch
+build/*
+lib/**/*.o
+lib/cryptopp/Test*/*
+lib/cryptopp/*.a
